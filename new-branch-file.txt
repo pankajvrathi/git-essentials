@@ -1,1 +1,3 @@
 new branch file shows only in new branch
+
+updated to show this file in Main branch as well
