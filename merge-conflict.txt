@@ -1,0 +1,7 @@
+Line 1 by GitHub
+Line 2 by GitHub
+Line 3 by GitHub
+Line four by GitHub (edited locally)
+Line 5 by GitHub
+Line 6 by GitHub
+Line 7 by GitHub
